@@ -1,6 +1,6 @@
 # CursoPinia
 
-This template should help get you started developing with Vue 3 in Vite.
+Hecho en vue3 con pinia , Usando la documentacion oficial
 
 ## Recommended IDE Setup
 
